@@ -21,20 +21,25 @@ Analytical cookies: 2
 
 ## Usage
 
-Importing into Vue app
- import CookieConsent from '~/components/shared/CookieConsent'
+1. Import component into Vue app
+`import CookieConsent from '~/components/shared/CookieConsent'`
 
+2. Register the imported component locally within components object
+```
 components: {
     CookieConsent
-  }
+}
+```
+3. Output the component in the template
+`<CookieConsent  />`
 
-<CookieConsent  />
+You can pass in properties like this:
+`<CookieConsent  :privacyPolicyUrl=""  />`
 
 
-Browser support
+## Browser support
 
 Works in all modern browsers and IE11
-
 
 Will add further detailed instructions when I get time. 
 
