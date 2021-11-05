@@ -2,8 +2,10 @@
 
 This this is a simple plug-and-play Vue Single File Component for cookie consent management. 
 
-- Saves consent status to local storage 
+- Shows a cookie consent banner on page load
+- Saves consent status to local storage
 - Drops analytical and functional cookies based on user consent
+- Cookie management center (modal)
 
 To minimise the number of dependencies required, I have intentionally not included Typescript in this Single File Component. If your project is using Typescript, I highly recommmend you make the required updates to the Javascript methods to leverage it.
 
