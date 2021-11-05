@@ -6,18 +6,18 @@ This this is a Vue Single File Component for cookie consent management.
 - Drops analytical and functional cookies based on user consent
 
 ## Dev dependencies
-postcss-nested
-tailwindcss
-autoprefixer
+- postcss-nested
+- tailwindcss
+- autoprefixer
  
 
 ## Dependencies
-VueGtag
-TailwindCSS
+- VueGtag
+- TailwindCSS
 
-Cookie categorie id’s
-Functional cookies: 1
-Analytical cookies: 2
+###Cookie category id’s
+- Functional cookies: 1
+- Analytical cookies: 2
 
 ## Usage
 
