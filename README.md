@@ -12,7 +12,7 @@ To minimise the number of dependencies required, I have intentionally not includ
 ## Dev dependencies
 Add the following dependencies via NPM  
 - postcss-nested
-- tailwindcss
+- tailwindcss (ensure tailwind config file is properly configured to purge unused classes)
 - autoprefixer
  
 
