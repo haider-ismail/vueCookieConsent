@@ -75,8 +75,6 @@ default: '000000' //@NOTE: Update default ID or pass in via props
 
 Works in all modern browsers and IE11
 
-Will add further detailed instructions when I get time. 
-
 For general documentation on Single File Components, see VueJs guide: https://vuejs.org/v2/guide/single-file-components.html
 
 
