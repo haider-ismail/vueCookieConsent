@@ -15,7 +15,7 @@ This this is a Vue Single File Component for cookie consent management.
 - VueGtag
 - TailwindCSS
 
-###Cookie category id’s
+### Cookie category id’s
 - Functional cookies: 1
 - Analytical cookies: 2
 
