@@ -37,7 +37,7 @@ You can pass in properties like this:
 `<CookieConsent  :privacyPolicyUrl=""  />`
 
 ### Conditional props
-#### buttonTextAccept. 
+#### buttonTextAccept 
 type: String  
 default: 'Accept all' 
 
@@ -61,13 +61,13 @@ default: 'www.example.com/privacy' //@NOTE: Update to point to where the privacy
 type: String  
 default: 'bottom'   
 
-#### gaId:  
-      type: String,
-      default: '000000' //@NOTE: Update default GA ID or pass in via props
-#### leadForensicId: {
-      type: String,
-      default: '000000' //
+#### gaId  
+type: String  
+default: '000000' //@NOTE: Update default ID or pass in via props  
 
+#### leadForensicId  
+type: String  
+default: '000000' //@NOTE: Update default ID or pass in via props  
 
 ## Browser support
 
