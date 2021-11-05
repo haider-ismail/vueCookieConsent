@@ -38,35 +38,35 @@ You can pass in properties like this:
 
 ### Conditional props
 #### buttonTextAccept 
-type: String  
+type: `String`  
 default: 'Accept all' 
 
 #### buttonTextReject
-type: String  
+type: `String`  
 default: 'Reject all' 
 
 #### buttonTextManage  
-type: String  
+type: `String`  
 default: 'Manage settings'  
 
 #### bannerText 
-type: String  
+type: `String`   
 default: 'We use cookies to improve user experience and analyse website traffic. Click "Accept" to allow cookies on this website.' 
 
 #### privacyPolicyUrl 
-type: String  
+type: `String`  
 default: 'www.example.com/privacy' //@NOTE: Update to point to where the privacy policy sits (e.g. webpage or PDF)  
 
 #### position 
-type: String  
+type: `String`   
 default: 'bottom'   
 
 #### gaId  
-type: String  
+type: `String`  
 default: '000000' //@NOTE: Update default ID or pass in via props  
 
 #### leadForensicId  
-type: String  
+type: `String`  
 default: '000000' //@NOTE: Update default ID or pass in via props  
 
 ## Browser support
